@@ -11,6 +11,7 @@ body {
   width: 100%;
   background-repeat: no-repeat;
   background-size: 100%;
+  bottom: 0;
 }
 .bg {
   width: 100%;
