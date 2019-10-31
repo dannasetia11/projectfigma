@@ -1,0 +1,13 @@
+body {
+  background-image: url(danau.jpeg);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+form {
+  opacity: 0.5;
+  width: 80%;
+}

@@ -1,0 +1,81 @@
+.header {
+  background-color: #ef6058;
+  opacity: 0.7;
+  padding: 5px;
+  text-align: center;
+  /* margin-bottom: -90px; */
+}
+body {
+  background-image: url(./buku.jpg);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.bg {
+  width: 100%;
+  height: 700px;
+}
+.footer {
+  background-color: #ab9e9b;
+  padding: 10px;
+  text-align: center;
+  opacity: 0.7;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.tulisan_login {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.kotak_login {
+  width: 350px;
+  background: white;
+  margin: 80px auto;
+  padding: 30px 20px;
+  /* opacity: 0.8; */
+}
+
+label {
+  font-size: 11pt;
+  text-align: center;
+}
+
+.form_login {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+  opacity: 0.7;
+}
+
+.tombol_login {
+  background: #ea9383;
+  color: white;
+  font-size: 11pt;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  justify-content: center;
+  display: flex;
+}
+form a {
+  text-decoration: none;
+  background-color: lawngreen;
+  color: black;
+  padding: 2px 30px 2px 30px;
+  border: 1px solid #c2c2c2;
+  border-radius: 2px;
+  justify-content: center;
+}
+
+.link {
+  color: #232323;
+  text-decoration: none;
+  font-size: 10pt;
+}
